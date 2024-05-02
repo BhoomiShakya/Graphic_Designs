@@ -1,2 +1,1 @@
-# Graphic_Designs
- 
+This is a basic image gallery website showcasing some of my work and practice in designing software, specifically Adobe Illustrator.
